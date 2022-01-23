@@ -67,3 +67,24 @@ ul li a{
 ul li a:hover{
     color: tomato;
 }
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
+
+.content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1,2px;
+    line-height: 30px;
+    
+}
+  
+
+
+    
